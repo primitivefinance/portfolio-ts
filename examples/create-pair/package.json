@@ -1,0 +1,22 @@
+{
+  "name": "create-pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Alex Angel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "prettier": "^2.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@primitivexyz/portfolio": "1.1.1-beta",
+    "viem": "^0.3.13"
+  }
+}
