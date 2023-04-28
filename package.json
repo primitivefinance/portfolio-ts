@@ -1,12 +1,16 @@
 {
-  "name": "ts-template",
+  "name": "@primitivexyz/portfolio-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal toolkit for building TypeScript based applications for Portfolio by Primitive.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "primitive",
+    "portfolio",
+    "viem"
+  ],
   "author": "Alex Angel",
   "license": "ISC",
   "devDependencies": {
@@ -15,6 +19,8 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "@primitivexyz/portfolio": "1.1.1-beta",
+    "dotenv": "^16.0.3",
+    "viem": "^0.3.13"
   }
 }

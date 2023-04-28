@@ -1,17 +1,17 @@
-## Ts Template
+## Portfolio Typescript 
 
-Minimal and fast typescript template using `pnpm`.
+A minimal toolkit for building TypeScript based applications for Portfolio by Primitive.
 
-### Usage
-
-Create from template:
+## Installation
 
 ```bash
-gh repo create <repo-name> --template=alexangelj/ts
+pnpm add @primitivexyz/portfolio-ts
 ```
 
-Install:
+## Documentation
 
-```
-pnpm i
-```
+Check out the [documentation](https://docs.primitive.xyz/) for more information on how to use Portfolio.
+
+## Examples
+
+Check out the [examples](./examples/) folder for a few examples of how to use this toolkit and interact with Portfolio using typescript.
